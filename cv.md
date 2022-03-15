@@ -29,7 +29,7 @@ Delorian LLC, Export Manager Assistant
 
 Russian Customs Academy, Customs Specialist.
 
-**2021 — 2022**
+**2021 — 2022** 
 
 ITMO, web development course.
 
