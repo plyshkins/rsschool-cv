@@ -46,4 +46,4 @@ ITMO, web development course.
 ## Contacts
 bella.brusentseva@yandex.ru — preferred means of communication
 
-[Github: plyshkins]
+[Github: plyshkins](https://github.com/plyshkins)
